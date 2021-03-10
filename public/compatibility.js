@@ -1,0 +1,1 @@
+window.wasm_bindings = wasm_bindgen
