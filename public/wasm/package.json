@@ -1,0 +1,14 @@
+{
+  "name": "bettersudoku",
+  "collaborators": [
+    "Jorik <vanveenjorik@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "bettersudoku_bg.wasm",
+    "bettersudoku.js",
+    "bettersudoku.d.ts"
+  ],
+  "browser": "bettersudoku.js",
+  "types": "bettersudoku.d.ts"
+}
